@@ -6,15 +6,21 @@
 ://iwalletconnect.app  
 ://appwalletconnects.com  
 ://iwebsmartconnect.com  
-
 ://walletcentral.net (UKN)
 
 
 ### **Target:** Uniswap  
-**Official Site:** app.uniswap.org/#/swap  
+**Official Site:** https://app.uniswap.org/#/swap  
 **Harvest:** 12 word passphrase 
 
 ://app-uniswap-v3.site
+
+
+### **Target:** PancakeSwap  
+**Official Site:** https://exchange.pancakeswap.finance  
+**Harvest:** 12 word passphrase 
+
+://exchange-pancakeswap-finance.live
 
 ## Login Creds
 ### **Target:** Microsoft Office 365  
