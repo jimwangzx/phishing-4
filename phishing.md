@@ -1,9 +1,12 @@
-#Crypto
-Target: WallectConnect
-Official Site: https://walletconnect.org
-Harvest: 12 word passphrase
+# Crypto
+Target: WallectConnect  
+Official Site: https://walletconnect.org  
+Harvest: 12 word passphrase  
 
 ## Phishing Links
-://iwalletconnect[.]app
-://appwalletconnects[.]com
-://iwebsmartconnect[.]com
+://iwalletconnect[.]app  
+://appwalletconnects[.]com  
+://iwebsmartconnect[.]com  
+
+
+Twitter: @milannshrestga
