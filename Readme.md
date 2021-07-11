@@ -16,5 +16,6 @@
 ### Phishing Links
 ://ringz.z6.web.core.windows.net
 
-Reported via Twitter: [@milannshrestga](https://twitter.com/milannshrestga) 
+Reported via Twitter: [@milannshrestga](https://twitter.com/milannshrestga)  
+Blog Posts: [Medium](https://milannshrestha.medium.com)
 
