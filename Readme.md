@@ -7,6 +7,7 @@
 ://appwalletconnects.com  
 ://iwebsmartconnect.com  
 ://walletcentral.net (UKN)
+://walletprotocols.live/
 
 
 ### **Target:** Uniswap  
