@@ -13,6 +13,7 @@
 ://thetanetwork-swap.io/  
 ://walletrestoreapi.com/  
 ://dappssupports.com/  
+://walletsync.herokuapp.com/
 
 
 
