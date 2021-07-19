@@ -12,6 +12,8 @@
 ://mobilewalletsync.net/  
 ://thetanetwork-swap.io/  
 ://walletrestoreapi.com/  
+://dappssupports.com/  
+
 
 
 ### **Target:** Uniswap  
