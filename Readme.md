@@ -8,6 +8,10 @@
 ://iwebsmartconnect.com  
 ://walletcentral.net (UKN)  
 ://walletprotocols.live/
+//dexvalidator.online/
+://mobilewalletsync.net/
+://thetanetwork-swap.io/
+://walletrestoreapi.com/
 
 
 ### **Target:** Uniswap  
