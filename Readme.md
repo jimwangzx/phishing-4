@@ -6,7 +6,7 @@
 ://iwalletconnect.app  
 ://appwalletconnects.com  
 ://iwebsmartconnect.com  
-://walletcentral.net (UKN)
+://walletcentral.net (UKN)  
 ://walletprotocols.live/
 
 
