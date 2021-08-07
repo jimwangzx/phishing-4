@@ -1,7 +1,7 @@
 
 ## Hosting Phishing
 209.205.209[.]130
-
+67.220.183[.]18
 
 ## Crypto
 ### **Target:** WallectConnect  
@@ -22,7 +22,8 @@
 ://walletactivation.net/
 ://wallets-connectlive.org
 ://resstore-walet.online
-
+//wallettslinker.site/
+dappswalletconnector.com
 
 
 ### **Target:** Uniswap  
