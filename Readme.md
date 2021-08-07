@@ -18,12 +18,12 @@
 ://thetanetwork-swap.io/  
 ://walletrestoreapi.com/  
 ://dappssupports.com/  
-://walletsync.herokuapp.com/
-://walletactivation.net/
-://wallets-connectlive.org
-://resstore-walet.online
-//wallettslinker.site/
-dappswalletconnector.com
+://walletsync.herokuapp.com/  
+://walletactivation.net/  
+://wallets-connectlive.org  
+://resstore-walet.online  
+//wallettslinker.site/  
+dappswalletconnector.com  
 
 
 ### **Target:** Uniswap  
