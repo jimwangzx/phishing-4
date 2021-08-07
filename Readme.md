@@ -24,6 +24,8 @@
 ://resstore-walet.online  
 //wallettslinker.site/  
 dappswalletconnector.com  
+://connect-dappsconnect.com/  
+://wallet-connectvalidation.com  
 
 
 ### **Target:** Uniswap  
