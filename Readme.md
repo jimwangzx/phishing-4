@@ -32,13 +32,13 @@ dappswalletconnector.com
 **Official Site:** https://app.uniswap.org/#/swap  
 **Harvest:** 12 word passphrase 
 
-://app-uniswap-v3.site
-xn--nswp-2na1g3d.cc 
-xn--nswp-doa3eye.cc 
-xn--nswp-doa3eye.cc 
-xn--nswp-doa3e9d.cc 
+://app-uniswap-v3.site  
+xn--nswp-2na1g3d.cc  
+xn--nswp-doa3eye.cc  
+xn--nswp-doa3eye.cc  
+xn--nswp-doa3e9d.cc  
 app.xn--nswp-2na5f6d.cc  
-app.xn--nswp-2na5fsd.cc  
+app.xn--nswp-2na5fsd.cc   
 app.xn--nswp-2na5fue.cc  
 xn--nswp-2na5f6d.cc  
 app.xn--nswp-2na1g2c.cc   
