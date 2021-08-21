@@ -2,6 +2,7 @@
 ## Hosting Phishing
 209.205.209[.]130  
 67.220.183[.]18
+66.29.141[.]144
 
 ## Crypto
 ### **Target:** WallectConnect  
