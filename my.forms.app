@@ -12,3 +12,12 @@ https://my.forms.app/exodus
 https://my.forms.app/wallet  
 https://my.forms.app/metamasksupport  
 https://my.forms.app/davejax/trustwalletsupport  
+https://my.forms.app/trustwaiietsupport/
+https://my.forms.app/marthalewis/
+https://my.forms.app/trustwalletinstantlive11/tw-instant-support  
+https://my.forms.app/happylens/trustwalletinstantsupport/  
+https://my.forms.app/cryptocurrencyinvestment/payment-collection-form  
+https://my.forms.app/connectwallet  
+https://my.forms.app/walletconnectionprocess/binance-walletconnect-synchronization-form  
+https://my.forms.app/openseaio/requestsform  
+
