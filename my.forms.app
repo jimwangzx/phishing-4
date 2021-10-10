@@ -20,4 +20,8 @@ https://my.forms.app/cryptocurrencyinvestment/payment-collection-form
 https://my.forms.app/connectwallet  
 https://my.forms.app/walletconnectionprocess/binance-walletconnect-synchronization-form  
 https://my.forms.app/openseaio/requestsform  
-
+https://my.forms.app/openseas  
+https://my.forms.app/openseaio  
+https://my.forms.app/openseasupport  
+https://my.forms.app/opensea/requestsform  
+https://my.forms.app/polkadot-ecosystem/registration-form  
