@@ -26,5 +26,13 @@ https://my.forms.app/openseasupport
 https://my.forms.app/opensea/requestsform  
 https://my.forms.app/polkadot-ecosystem/registration-form  
 https://my.forms.app/dualnetworkprotocol/  
+https://my.forms.app/yoroiwallet/metamask  
 
+https://my.forms.app/yoroiwallet/metamask  
+https://my.forms.app/metamask-support/submitrequest  
+https://my.forms.app/openseas/requestsform  
+https://my.forms.app/openseaio/requestsform  
+https://my.forms.app/openseasupport   
+https://my.forms.app/openseadesk/opensea-support2-1   
+https://my.forms.app/openseadesk/opensea-support2  
 
